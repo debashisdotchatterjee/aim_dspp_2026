@@ -11,9 +11,9 @@ Department of Statistics, Visva-Bharati University, Santiniketan, West Bengal, I
 
 The paper develops a probability-theoretic framework for **AI-modulated doubly stochastic Poisson processes (AIM-DSPPs)**. The central construction is
 
-\[
-\lambda_\Theta(t)=R_tA_\Theta(t),
-\]
+
+$\lambda_\Theta(t)=R_tA_\Theta(t),$
+
 
 where \(R_t\) is a nonnegative random Cox directing intensity and \(A_\Theta(t)\) is a positive learned modulation field driven by **exogenous** information. Conditional on the directing sigma-field, the event process remains Poisson.
 
