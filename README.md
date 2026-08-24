@@ -6,7 +6,7 @@ This repository contains the computational material supporting the manuscript
 
 > **Cox Processes with Exogenous AI Modulation: Identifiability, Stability, and Approximation in Law**
 
-by **Debashis Chatterjee**  
+by **Dr. Debashis Chatterjee**  
 Department of Statistics, Visva-Bharati University, Santiniketan, West Bengal, India.
 
 The paper develops a probability-theoretic framework for **AI-modulated doubly stochastic Poisson processes (AIM-DSPPs)**. The central construction is
@@ -224,7 +224,7 @@ The bibliographic entry should be updated with the journal, volume, pages, and D
 
 ## Author
 
-**Debashis Chatterjee**  
+**Dr. Debashis Chatterjee**  
 Department of Statistics  
 Visva-Bharati University  
 Santiniketan, West Bengal, India
