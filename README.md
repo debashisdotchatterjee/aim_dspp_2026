@@ -94,9 +94,9 @@ Among the reported results:
 
 Two public repeated-count datasets are analyzed as empirical projections of the multiplicative structure
 
-\[
+$
 \mu_i=R_iA_\theta(X_i).
-\]
+$
 
 Exact within-window event times are **not fabricated**. Accordingly, these applications assess the multiplicative conditional-mean architecture and discrete calibration diagnostics rather than the continuous-time time-rescaling theorem.
 
@@ -106,9 +106,9 @@ The analysis uses the `epil` dataset distributed with the R package `MASS`, orig
 
 The directing baseline is the observed pretreatment seizure rate:
 
-\[
+$
 R_i=\frac{B_i}{4},
-\]
+$
 
 where \(B_i\) is the eight-week pretreatment seizure count.
 
@@ -126,9 +126,9 @@ The analysis uses the `Owls` dataset distributed with `glmmTMB`, associated with
 
 A history-only block within each nest is used to construct a shrunk nest-specific directing rate. Subsequent non-history bouts are then modeled using the baseline
 
-\[
+$
 R_{jk}=B_{jk}\widehat r_j,
-\]
+$
 
 where \(B_{jk}\) is brood size.
 
